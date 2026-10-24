@@ -5,7 +5,7 @@ Lore-friendly tablet and wall-mounted home panel props for FiveM, featuring iFru
 
 Each wall variant is a single prop with the tablet and mount already aligned. Place only the wall model.
 
-**Note:** *All screens use the [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) UI, but you can change it to whatever you want.*
+**Note:** *All screens use the [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) UI, but you can change it to whatever you want.*   
 **Disclaimer: This project is not affiliated with, endorsed by, or sponsored by LNS Studios. All referenced names and logos belong to their respective owners.**
 
 ## Previews
