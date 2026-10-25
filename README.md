@@ -9,7 +9,7 @@ Lore-friendly tablet and wall-mounted home panel props for FiveM, featuring iFru
 
 ### All models
 
-- 21 models, including standard tablets, an [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) edition and wall-mounted variants in multiple colours.
+- 21 models, including standard tablets, a [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) edition and wall-mounted variants in multiple colours.
 
 ![All home panel models](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/all_models.png)
 
