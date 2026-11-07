@@ -1,36 +1,35 @@
 # iFruit Home Panel
 
-Lore-friendly tablet and wall-mounted home panel props for FiveM, featuring iFruit (GTA branding).  
-**Did it for my server currently using [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) and decide to release it 😊**
+Lore-friendly tablet and wall-mounted home panel props for FiveM, featuring iFruit (GTA branding).
+Did it for my server currently using [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) and decide to release it 😊
 
-**Note:** *All screens use the [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) UI, but you can change it to whatever you want.*  
-**Disclaimer: This project is not affiliated with, endorsed by, or sponsored by [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing). All referenced names and logos belong to their respective owners.**
+Each wall variant is a single prop with the tablet and mount already aligned. Place only the wall model.
+
+**Note:** *All screens use the [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) UI, but you can change it to whatever you want.*
+
 ## Previews
 
-### All models
+![All home panel models](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/homepanel_gallery_details.png)
 
-- 21 models, including standard tablets, a [LNS_Housing](https://github.com/LumaNodeStudios/LNS_Housing) edition and wall-mounted variants in multiple colours.
+## Model names and hashes
 
-![All home panel models](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/all_models.png)
+- `prop_homepanel` - `0x1E64AE16` (Standard HomePanel)
+- `prop_homepanel_lns` - `0xC8025761` (LNS screen)
+- `prop_homepanel_wall` - `0x4AEB4F7D` (Wall mount)
 
-### Standard tablet
+## Tint colours
 
-- `mula_homepanel` - original tablet with the home control screen.
+All three models use the same tint indices. The display and LED do not change colour.
 
-![Original tablet](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/mula_homepanel.png)
-
-- `mula_homepanel_blue` - blue tablet with the home control screen.
-
-![Blue tablet](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/mula_homepanel_blue.png)
-
-### Wall-mounted tablet
-
-- `mula_homepanel_wall` - white tablet with the matching wall mount.
-
-![White wall-mounted tablet](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/mula_homepanel_wall.png)
-
-- `mula_homepanel_wall_black` - black tablet with the matching wall mount.
-
-![Black wall-mounted tablet](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/mula_homepanel_wall_black.png)
+- `0` - White (`#DBDCDE`)
+- `1` - Black (`#262729`)
+- `2` - Silver (`#BABDC2`)
+- `3` - Blue (`#52AEDB`)
+- `4` - Green (`#29CF31`)
+- `5` - Orange (`#D69A29`)
+- `6` - Pink (`#DE82DB`)
+- `7` - Purple (`#BDA6C8`)
+- `8` - Red (`#B5413F`)
+- `9` - Yellow (`#EFC339`)
 
 **Let me know if you run into any issues or please open an issue and give a star**
